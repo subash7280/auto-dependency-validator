@@ -1,0 +1,27 @@
+{
+  "name": "auto-dependency-validator",
+  "version": "1.0.0",
+  "description": "🧠 Automatically detect unused, missing, or mismatched dependencies in your Node.js/React project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subash7280/auto-dependency-validator.git"
+  },
+  "keywords": [
+    "cli",
+    "dependencies",
+    "validator",
+    "npm",
+    "audit",
+    "checker"
+  ],
+  "author": "Subash Eswaramoorthi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subash7280/auto-dependency-validator/issues"
+  },
+  "homepage": "https://github.com/subash7280/auto-dependency-validator#readme"
+}
