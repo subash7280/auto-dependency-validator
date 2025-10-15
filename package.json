@@ -24,6 +24,9 @@
   ],
   "author": "Subash Eswaramoorthi",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/subash7280/auto-dependency-validator/issues"
   },
