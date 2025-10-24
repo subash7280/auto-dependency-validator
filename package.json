@@ -1,6 +1,6 @@
 {
   "name": "auto-dependency-validator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "🧠 Automatically detect unused, missing, or mismatched dependencies in your Node.js/React project.",
   "main": "index.js",
   "type": "module",
