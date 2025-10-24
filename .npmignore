@@ -1,4 +1,30 @@
+# Ignore unnecessary files when publishing to npm
+
+# Development dependencies
+node_modules/
 test.js
-*.test.js
-*.spec.js
-tests/
+coverage/
+dist/
+build/
+
+# Config and IDE files
+.vscode/
+.idea/
+.gitignore
+npm-debug.log*
+yarn-error.log*
+Thumbs.db
+.DS_Store
+
+# Git & CI
+.github/
+.git/
+
+# Environment
+.env
+.env.*
+
+# Lock files (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test/test.js"
   },
   "bin": {
     "dep-validate": "./cli.js"
@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/subash7280/auto-dependency-validator/issues"
   },
-  "homepage": "https://github.com/subash7280/auto-dependency-validator#readme"
+  "homepage": "https://github.com/subash7280/auto-dependency-validator#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
 }
